@@ -15,6 +15,6 @@ An E-commerce Dashboard created under open internship project oppurtunity for iN
 
 7)Project Video link -> https://drive.google.com/file/d/1dO9VgqTwtAhTmFl1x7htE6iq6utSdeF4/view?usp=sharing
 
-8)Tableau Public Link -> https://public.tableau.com/app/profile/rachit.agarwal3124/viz/E-commercestory_16289591187780/Story1
+8)Tableau Public Link -> https://public.tableau.com/app/profile/aarsh.sapra/viz/E-commercestory_16291725281800/Story1
 
 *For any other query please reachout to the authors*
